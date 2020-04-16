@@ -1,0 +1,36 @@
+ h3{
+ 	text-align: center;
+ 	padding: 20px;
+ 	color: solid black;
+
+ }
+
+ #centre{
+        			text-align: center;
+        			
+}
+
+p{
+	text-align: left;
+	font-size: 15px ;
+	color : black;
+}
+
+ @media (max-width: 500px) {
+                img {
+                     width :60%;
+                     height :65%;
+                }
+}
+
+
+#hover{
+ padding-top: 15px;
+
+}
+
+ 
+	  #hover:hover{
+	display : none;
+	}
+
