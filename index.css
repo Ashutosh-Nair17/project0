@@ -5,10 +5,7 @@
 
  }
 
- #centre{
-        			text-align: center;
-        			
-}
+ 
 
 p{
 	text-align: left;
@@ -30,7 +27,11 @@ p{
 }
 
  
-	  #hover:hover{
-	display : none;
-	}
+#hover:hover{
+display : none;
+}
 
+.centre{
+	text-align: center;
+	font-size: 20px;
+}
