@@ -20,12 +20,6 @@ p{
                 }
 }
 
-
-#hover{
- padding-top: 15px;
-
-}
-
  
 #hover:hover{
 display : none;
@@ -34,4 +28,9 @@ display : none;
 .centre{
 	text-align: center;
 	font-size: 20px;
+}
+
+img{
+	padding :15px;
+	align-self: auto;
 }
