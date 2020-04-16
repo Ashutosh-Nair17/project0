@@ -6,7 +6,7 @@ body{
      background-position: center;
 }
 
-.row>div{
+row>div{
 	padding :20px;
 	border: 2px solid black
 
@@ -21,5 +21,6 @@ h1 {
 
 #align-image{
 	text-align: center;
+	padding-top: 30px;
 	
 }
