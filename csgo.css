@@ -1,0 +1,25 @@
+body{
+	 background-image: url('#');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+     background-position: center;
+}
+
+.row>div{
+	padding :20px;
+	border: 2px solid black
+
+}
+
+h1 {
+	text-align: center;
+ 	padding: 20px;
+ 	color: solid black;
+
+}
+
+#align-image{
+	text-align: center;
+	
+}
