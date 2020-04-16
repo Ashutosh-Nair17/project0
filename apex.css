@@ -4,8 +4,13 @@ h1 {
  	color: solid black;
 
 }
-.row>div{
+row>div{
 	padding :20px;
 	border: 2px solid black
 
+}
+
+tr{
+	text-align: justify;
+	size: 50px;
 }
