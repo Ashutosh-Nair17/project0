@@ -1,5 +1,5 @@
 body{
-	 background-image: url('#');
+	 background-image: url('csback.jpg');
      background-repeat: no-repeat;
      background-attachment: fixed;
      background-size: 100% 100%;
@@ -15,7 +15,7 @@ row>div{
 h1 {
 	text-align: center;
  	padding: 20px;
- 	color: solid black;
+ 	color: #fc032d;
 
 }
 
@@ -23,4 +23,11 @@ h1 {
 	text-align: center;
 	padding-top: 30px;
 	
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+	font-size: 20px ;
+	color: #03fcf0;
 }
